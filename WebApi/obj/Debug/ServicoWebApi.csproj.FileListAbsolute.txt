@@ -1,0 +1,12 @@
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\bin\ServicoWebApi.dll.config
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\bin\ServicoWebApi.dll
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\bin\ServicoWebApi.pdb
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\bin\System.Web.Http.xml
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\obj\Debug\ServicoWebApi.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\obj\Debug\ServicoWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\obj\Debug\ServicoWebApi.csproj.CopyComplete
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\obj\Debug\ServicoWebApi.dll
+C:\Users\Lucas\Downloads\54-Criando um cliente Web Api\ServicoWebApi\obj\Debug\ServicoWebApi.pdb
