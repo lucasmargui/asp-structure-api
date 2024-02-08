@@ -38,7 +38,7 @@ var uri = 'api/Cliente';
 ```
 
 
-Quando o documento estiver carregado acionará a função getJSON, onde receberá os dados em data e fará um looping passando por cada dado e adicionando na tabela
+Quando o documento estiver carregado acionará a função getJSON, onde receberá os dados em data e fará um looping passando por cada dado adicionando na tabela
 ```
 $(document).ready(function () {
 			$.getJSON(uri)
