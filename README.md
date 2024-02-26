@@ -3,6 +3,9 @@
 
 ## Controller
 
+<details>
+  <summary>Clique para mostrar conteúdo</summary>
+  
 ### ClienteController 
 
 ```
@@ -25,7 +28,15 @@ new Cliente() { ID = 3, Nome = "Wesley", EMail = "Wesley@teste.com" }
         }
 ```
 
+</details>
+
+
+
+
 ## Index
+
+<details>
+  <summary>Clique para mostrar conteúdo</summary>
 
 ### Lista Clientes
 ```
@@ -49,9 +60,19 @@ $(document).ready(function () {
 				});
 		});
 
-```
+``` 
+
+
+</details>
+
+
 
 ## Resultado
 
-<img src="https://cdn.discordapp.com/attachments/1046824853015113789/1205199668808646676/image.png?ex=65d780a8&is=65c50ba8&hm=70894506ee4435c219e36d06b5b0c6aadb5f23a9e2a5f23ef5c4a3a07094cdb6&" alt="">
+
+<div align="center">
+<img src="https://github.com/lucasmargui/ASP_JSON_WEB_API/assets/157809964/a615c14f-4526-4c88-8df5-d2c36601efb4" style="width:90%">
+</div>
+
+
 
